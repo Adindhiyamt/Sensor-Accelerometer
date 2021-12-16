@@ -1,1 +1,1 @@
-# Sensor-Accelerometer
+# sensor-accelerometer
